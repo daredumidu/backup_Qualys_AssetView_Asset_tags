@@ -8,7 +8,7 @@ import os
 
 base_url = "https://qualysapi.qualys.eu/qps/rest/2.0/get/am/tag/"
 
-tag_id = '19024131'     # level 2 tag. query up to 2 levels of chlid tags.
+tag_id = '12345678'     # level 2 tag. query up to 2 levels of chlid tags.
 
 url1 = (base_url + tag_id)
 

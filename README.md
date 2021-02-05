@@ -4,3 +4,7 @@ This code is for Qualys users, who wants to backup the asset tags created in the
 Create a folder "temp" in the working directory.
 
 Place the password.py file in a secure location. Set the path the the file in line 2.
+
+Type the master asset tags ID in line 11.
+
+run the code
